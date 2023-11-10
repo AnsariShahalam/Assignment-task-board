@@ -1,0 +1,121 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* *{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+} */
+
+  /* =============for login form css ============ */
+
+
+   /* main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+main article {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
+
+main article form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.1rem;
+}
+
+main article form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main article form label{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.8rem;
+}
+main article form label input{
+  border: none;
+  border-bottom: 0.1rem solid #212121;
+  outline: none;
+}
+main article form label span{
+  font-weight: bold;
+  text-transform: capitalize;
+  font-size: 1.025rem;
+}
+main article form label input{
+  font-size: 1rem;
+  letter-spacing: 0.025rem;
+  padding: 0.25rem 1rem;
+}
+main article form h1{
+  margin-bottom: 1.75rem;
+}
+button{
+  letter-spacing: 0.025rem;
+  padding:0.35rem 1rem ;
+  width: 100%;
+  margin-top: 1.5rem;
+  background-color: #212121;
+  color: #fff;
+  font-size: 1.125rem;
+} 
+  */
+
+
+/* ==========for Counting form css =========== */
+/* 
+html {
+  font-size: 10px;
+}
+
+button {
+  width: 30%;
+  padding: 5px;
+  font-size: 2rem;
+  border-radius: 10px;
+  margin: 8px;
+}
+
+.display {
+  border: 2px solid black;
+  font-size: 2rem;
+  background-color: yellow;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  width: 400px;
+  height: 300px;
+  background-color: green;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+p{
+  font-size: 3rem;
+} */
